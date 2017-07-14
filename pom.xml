@@ -26,12 +26,8 @@
 		</repository>
 	</repositories>
 
-
 	<build>
-		<finalName>webServiceExampleNicolasMori</finalName>
-
-
-
+		<finalName>ExampleNicolasMori</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -76,7 +72,7 @@
 	</build>
 
 	<dependencies>
-		<!-- ########## DEPENDECIAS PARA JSON ########## -->
+		<!-- ########## DEPENDECIAS for JSON ########## -->
 		<dependency>
 			<groupId>com.google.code.gson</groupId>
 			<artifactId>gson</artifactId>
@@ -101,7 +97,7 @@
 			<version>4.1.1</version>
 		</dependency>
 
-		<!-- ########## DEPENDECIAS PARA AUTOMATION ########## -->
+		<!-- ########## DEPENDECIAS for AUTOMATION ########## -->
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>

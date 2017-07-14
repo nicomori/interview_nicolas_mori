@@ -3,8 +3,7 @@
 <suite name="Test runner" parallel="tests" verbose="1" thread-count="2">
 	<test name="test">
 		<packages>
-			<package name="com.demo.nicolas.mori.*"></package>
+			<package name="com.interview.nicolas.mori.*"></package>
 		</packages>
 	</test>
-	
 </suite>
