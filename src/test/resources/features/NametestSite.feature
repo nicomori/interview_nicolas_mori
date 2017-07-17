@@ -12,7 +12,7 @@ Scenario Outline: Interview Nicolas Mori
 	Then verify the result is correctly deployed without errors
 	
 Examples:
-| browser 	| url						 					| user						 | pass	 				  | 
-| chrome    | https://en.nametests.com/test/test/9164/		| snik_21@hotmail.com		 | 7789WKF5364nfg//@@#    | 
-| chrome    | https://en.nametests.com/test/test/8292/		| snik_21@hotmail.com		 | 7789WKF5364nfg//@@#    | 
-| chrome    | https://en.nametests.com/test/test/11005/		| snik_21@hotmail.com		 | 7789WKF5364nfg//@@#    | 
+| browser 	| url						 					| user						 					 | pass	 				   	  | 
+| chrome    | https://en.nametests.com/test/test/9164/		| gnfskuf_wongstein_1472554768@tfbnw.net		 | CDtmCMGEj]XCiPmsYiWvaLP6    | 
+| chrome    | https://en.nametests.com/test/test/8292/		| gnfskuf_wongstein_1472554768@tfbnw.net		 | CDtmCMGEj]XCiPmsYiWvaLP6    | 
+| chrome    | https://en.nametests.com/test/test/11005/		| gnfskuf_wongstein_1472554768@tfbnw.net		 | CDtmCMGEj]XCiPmsYiWvaLP6    | 
